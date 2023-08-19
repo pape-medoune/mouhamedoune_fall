@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mouhamedoune Fall</h1>
 <h3 align="center">A passionate web and mobile developper from SENEGAL</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw368PEno-RMQiepfKIMfvWz&ust=1692574299522000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiWnOHw6YADFQAAAAAdAAAAABAJ" alt="pape-medoune" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p>
+
+<p align="right"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw368PEno-RMQiepfKIMfvWz&ust=1692574299522000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiWnOHw6YADFQAAAAAdAAAAABAJ" alt="pape-medoune" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pape-medoune" alt="pape-medoune" /></a> </p>
 
