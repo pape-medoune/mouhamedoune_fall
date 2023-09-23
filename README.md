@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Reactjs NodeJs Laravel Express Flutter Dart Django**
 
-- 👨‍💻 All of my projects are available at [mouhamedoune-portfolio.netlify.app](mouhamedoune-portfolio.netlify.app)
-
 - 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **mouhamedounedev@gmail.com**
