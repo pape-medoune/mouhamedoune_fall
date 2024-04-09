@@ -1,9 +1,6 @@
  
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p>
-<p align="center" style="font-size: 18px; color: #333;">
- <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" style="border-radius: 5px;" />
-</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p> 
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
