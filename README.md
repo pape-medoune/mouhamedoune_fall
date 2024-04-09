@@ -1,14 +1,13 @@
 
 
-<h1 align="center">Hi 👋, I'm Mouhamedoune Fall</h1>
-<h3 align="center">A passionate web and mobile developper from SENEGAL</h3>
+<h1 align="center">Hi 👋, I'm Mouhamedoune Fall</h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p>
 
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Junior+Full+Stack+Web+Developer;Junior+Mobile+Developer)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi+I+Am+Mouhamedoune+FALL;A+Junior+Full+Stack+Web+Developer;A+Junior+Mobile+Developer)]()
 
 ## Skills
 - 🌱 Frontend : React, Next, Angular, Material UI, TailwindCSS
@@ -42,7 +41,8 @@
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=pape-medoune&theme=onedark&column=-1&rank=-C" />
+        <!--<img src="https://github-profile-trophy.vercel.app/?username=pape-medoune&theme=onedark&column=-1&rank=-C" />-->
+      <img src="https://github-profile-trophy.vercel.app/?username=pape-medoune&theme=onedark" />
     </a>
 </p>
 
