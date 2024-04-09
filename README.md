@@ -1,3 +1,11 @@
+
+
+<h1 align="center">Hi 👋, I'm Mouhamedoune Fall</h1>
+<h3 align="center">A passionate web and mobile developper from SENEGAL</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p>
+
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Junior+Full+Stack+Web+Developer;Junior+Mobile+Developer)]()
@@ -21,9 +29,7 @@
   </a>
   <br />
   <strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, Express.js, MongoDB, React, Flutter, Next.js, Laravel, Django</strong>
-</p>
-<p align="center"><strong>Skills &amp; Interests</strong></p>
----
+</p> 
 
 # &lt;CERTIFICATIONS /&gt;
 
@@ -43,12 +49,6 @@
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
-[![Stats](https://github-readme-stats.vercel.app/api?username=pape-medoune&theme=blue-green)](https://github.com/pape-medoune)
-
-<h1 align="center">Hi 👋, I'm Mouhamedoune Fall</h1>
-<h3 align="center">A passionate web and mobile developper from SENEGAL</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p>
 
 <p align="center">  <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" /> </p>
 
