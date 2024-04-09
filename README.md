@@ -1,8 +1,6 @@
+ 
 
-
-<h1 align="center">Hi 👋, I'm Mouhamedoune Fall</h1> 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pape-medoune&label=Profile%20views&color=0e75b6&style=flat" alt="pape-medoune" /> </p>
 
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
@@ -48,5 +46,10 @@
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/orbitturner/count.svg" />
 </p>
 
