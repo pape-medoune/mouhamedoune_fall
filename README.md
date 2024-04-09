@@ -23,89 +23,6 @@
   <strong>HTML5, CSS3, JavaScript, TypeScript, Node.js, Express.js, MongoDB, React, Flutter, Next.js, Laravel, Django</strong>
 </p>
 <p align="center"><strong>Skills &amp; Interests</strong></p>
-<table align="center">
- <tr>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cpp" />
-      <br>C++
-    </td> 
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django 
-    </td>   
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td> 
- </tr>
- <tr>
-    
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>NextJS
-    </td> 
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td> 
- </tr>
- <tr> 
-   
-    
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td> 
- </tr>
-</table>
-
-
 ---
 
 # &lt;CERTIFICATIONS /&gt;
@@ -126,7 +43,7 @@
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
-<!--[![Stats](https://github-readme-stats.vercel.app/api?username=mathiscode&theme=blue-green)](https://github.com/mathiscode)-->
+[![Stats](https://github-readme-stats.vercel.app/api?username=pape-medoune&theme=blue-green)](https://github.com/pape-medoune)
 
 <h1 align="center">Hi 👋, I'm Mouhamedoune Fall</h1>
 <h3 align="center">A passionate web and mobile developper from SENEGAL</h3>
