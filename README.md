@@ -29,7 +29,7 @@
 
 # &lt;CERTIFICATIONS /&gt;
 
-- Mobile Developper | FORCE-N 
+- Mobile Developer | FORCE-N 
 ---
 
 <p align="center">
