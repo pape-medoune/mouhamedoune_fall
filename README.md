@@ -52,7 +52,7 @@
   <img src="https://profile-counter.glitch.me/pape-medoune/count.svg" />
 </p>
 
-<p style="width: 100%; display: flex; flex-direction: column; align-item: center;">
+<p align: center; >
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pape-medoune&theme=blueberry)
 
