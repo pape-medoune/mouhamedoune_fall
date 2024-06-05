@@ -52,3 +52,14 @@
   <img src="https://profile-counter.glitch.me/pape-medoune/count.svg" />
 </p>
 
+<p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pape-medoune&theme=blueberry)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pape-medoune&theme=blueberry)⠀   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pape-medoune&theme=blueberry)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pape-medoune&theme=blueberry)⠀   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pape-medoune&theme=blueberry&utcOffset=8)
+
+</p>
+
