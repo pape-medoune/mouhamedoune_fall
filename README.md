@@ -47,7 +47,7 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
 
-<p align="center"> 
+<p align="center" style="visibility: 'hidden';"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pape-medoune/count.svg" />
 </p>
